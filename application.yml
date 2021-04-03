@@ -4,5 +4,5 @@ my:
     values: One, Two, Three, Four
 db:
   connection: connection-spring-here-from-config-server
-  host: www.googlLocalhost.com
+  host: www.googlLocalhostd.com
   port: 12008999
