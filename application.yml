@@ -5,4 +5,4 @@ my:
 db:
   connection: connection-spring-here-from-config-server
   host: www.googlLocalhost.com
-  port: 1200
+  port: 8559
